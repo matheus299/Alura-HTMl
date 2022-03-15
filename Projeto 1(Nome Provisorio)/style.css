@@ -1,7 +1,19 @@
+body {
+    text-align: center;
+    background-color: #262626;
+    color: #fff;
 
+
+}
+#banner {
+    width: 100%;
+
+}
 #Lema {
     font-size: 20px;
 }
-body {
-    text-align: center;
+
+
+#Lema strong {
+    color: red;
 }
