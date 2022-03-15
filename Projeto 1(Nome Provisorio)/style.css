@@ -1,13 +1,10 @@
-body {
-    
-    color: #fff;
-
-
+.titulo-principal {
+    padding: 20px;
 }
 .Principal {
     background-color: #262626;
 }
-h1, p {
+.titulo-centralizado, p {
     text-align: center;
 }
 #banner {
@@ -26,11 +23,9 @@ h1, p {
 .beneficios {
     background-color: #fff;
     color: #000;
-    padding: 20px;
+    
 }
-h2 {
-    text-align: center;
-}
+
 
 .itens {
     font-style: italic;
