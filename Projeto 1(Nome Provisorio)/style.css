@@ -1,9 +1,14 @@
 body {
-    text-align: center;
-    background-color: #262626;
+    
     color: #fff;
 
 
+}
+.Principal {
+    background-color: #262626;
+}
+h1, p {
+    text-align: center;
 }
 #banner {
     width: 100%;
@@ -11,9 +16,34 @@ body {
 }
 #Lema {
     font-size: 20px;
+    
 }
 
 
 #Lema strong {
     color: red;
+}
+.beneficios {
+    background-color: #fff;
+    color: #000;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.list {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    
+}
+
+.imagen-beneficios {
+    width:50%;
 }
